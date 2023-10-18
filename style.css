@@ -87,7 +87,7 @@
     height: 500px;
     width: 700px;
     position: absolute;
-    left: 12%;
+    left: 15%;
     top: calc(50% - 250px);
 }
 
@@ -97,6 +97,7 @@
 #content h2 {
     font-size: 140px;
     color: rgb(0, 0, 0);
+    margin-left: -1%;
 }
 
 
@@ -119,7 +120,7 @@
     margin-left: center;
     border: none;
     outline: none;
-    border-radius: 20px;
+    border-radius: 5px;
     background: dodgerblue;
     color: white;
     transition: 1s;
@@ -189,6 +190,7 @@
     height: 600px;
     width: 600px;
     position: absolute;
+    top: calc(50% - 330px);
     top: 0;
     left: 0;
     border: none;
