@@ -656,13 +656,13 @@
   ],
   "images": [
     {
-      "uri": "textures/Material__323_baseColor.png"
+      "uri": "Material__323_baseColor.png"
     },
     {
-      "uri": "textures/Material__347_baseColor.png"
+      "uri": "Material__347_baseColor.png"
     },
     {
-      "uri": "textures/Material__371_baseColor.png"
+      "uri": "Material__371_baseColor.png"
     }
   ],
   "materials": [
