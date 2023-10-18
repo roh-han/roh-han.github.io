@@ -103,8 +103,8 @@
 /* This styles the paragraph in the 3D description*/
 
 #content p {
-    font-size: 20px;
-    color: rgb(189, 189, 189);
+    font-size: 30px;
+    color: rgb(57, 57, 57);
 }
 
 
@@ -178,7 +178,7 @@
     height: 600px;
     width: 600px;
     position: absolute;
-    top: calc(50% - 250px);
+    top: calc(50% - 330px);
     right: 7%;
 }
 
